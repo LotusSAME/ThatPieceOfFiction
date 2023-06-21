@@ -314,3 +314,5 @@ The efficacy of the most recent reset events is falling and that can be attribut
 "Infinite Glacier": "To the moment I died that first time."
 "Glassmaker": "When will our refusal to adapt extinguish us, then?"
 "Infinite Glacier": "Mock all you like, this will not soothe that."
+
+When "molts" of the mushrooms die, their "corpses" shatter to become magical people, and certain unfortunate people gain "enlightenment", thus ridding them of the comfort of an absurd universe.
