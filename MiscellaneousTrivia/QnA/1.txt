@@ -18,3 +18,4 @@ Same method as in the lunar portals.
 And they swap the world-state of things in the portal the same way too.
 As in: if something is already in the destination, the portal won't start.
 This prevents accidents and informs the user of the destination.
+The photon swapping happens passively and to a very specific spectrum, the active part is the matter swapping.
