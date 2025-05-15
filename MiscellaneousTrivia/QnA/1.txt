@@ -1,0 +1,30 @@
+Portals how do they work, and why are they limited to the gods and foundation?
+The foundation learned how to make them from observing the "goblins that steal anything" anomaly.
+They don't understand how those portals function on a fundamental level, but they understand the world-state altering part.
+Are the goblins aware of this, and do they retaliate or interfere with portal usage by the foundation?
+They are an anomaly, and they steal anything.
+Otherwise, they cease to exist.
+I wrote about that.
+Does this partial understanding affect the foundation’s ability to control the portals? Could a failed portal experiment create new anomalies or disruptions in the world-states?
+This is a disorganized text I am trying to fix, unfortunately the answer is in it.
+https://github.com/LotusSAMMME/ThatPieceOfFiction/blob/Organize-patch-1/text1.txt
+It doesn't affect the foundation’s ability to control the portals, but it prevents them from accidentally creating four completely empty worlds.
+Because they might try to alter a third world-state.
+Doubling the number of possible world-states.
+Or even do it twice and quadruple it.
+But practically, that'd result in them getting stranded in an otherwise completely empty void.
+Plus that their portals check to prevent intersection with existing objects by momentarily swapping the world-state of photons at the destination.
+Same method as in the lunar portals.
+And they swap the world-state of things in the portal the same way too.
+As in: if something is already in the destination, the portal won't start.
+This prevents accidents and informs the user of the destination.
+The photon swapping happens passively and to a very specific spectrum, the active part is the matter swapping.
+Are there any scenarios where these safety measures could fail, leading to unexpected consequences?(just for the plot)
+No, but the portal itself can break if too much light energy hits it at a given instant.
+However, this is impossible with lunar portals.
+And the specific spectrum means that light in the destination practically gets filtered.
+But the spectrum slowly changes.
+This is also a safety feature.
+Because if it doesn't change, someone can take advantage of the filtering to make something in the destination invisible to the portal.
+Diffraction also becomes visible, so glass and water aren't dangerous neither.
+This is also true for the lunar portal.
